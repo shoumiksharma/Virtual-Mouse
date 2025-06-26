@@ -34,7 +34,7 @@ pip install opencv-python mediapipe pyautogui numpy
 3. Run the script:
 
 ```bash
-python virtualmouse.py
+python virtual_mouse.py
 ```
 
 4. **Calibration**:
